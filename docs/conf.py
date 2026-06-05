@@ -42,5 +42,6 @@ intersphinx_mapping = {
 html_theme = 'furo'
 html_title = 'torchgear'
 html_static_path = ['_static']
+html_baseurl = 'https://gjqaq.github.io/torchgear/'
 
 # pygments_style = 'sphinx'
