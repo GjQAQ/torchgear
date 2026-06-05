@@ -28,7 +28,7 @@ def expi(x: _Ts) -> _Ts:
     Computes the complex exponential of a real-valued tensor:
 
     .. math::
-        y=\e^{\i x}
+        y=\text{e}^{\text{i} x}
 
     :param x: A real-valued tensor.
     :return: Complex exponential of ``x``.
