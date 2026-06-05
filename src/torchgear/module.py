@@ -10,6 +10,7 @@ __all__ = [
     'FreezeParamMixIn',
     'TensorAsDelegate',
     'TensorContainerMixIn',
+    'TorchgearModule',
     'WrapperModule',
 ]
 
