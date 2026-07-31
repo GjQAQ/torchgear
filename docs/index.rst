@@ -18,6 +18,7 @@ consistency and parameter freezing.
    api/math
    api/tensor
    api/module
+   api/interpolate
 
 Indices and tables
 ==================
