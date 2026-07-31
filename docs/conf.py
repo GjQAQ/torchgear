@@ -5,7 +5,7 @@
 project = 'torchgear'
 copyright = '2026, Jiaqi Guo'
 author = 'Jiaqi Guo'
-release = '0.1.0'
+release = '0.2.0'
 version = release
 
 # -- General configuration ---------------------------------------------------
